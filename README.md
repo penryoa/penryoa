@@ -1,19 +1,20 @@
 ## Hey There! 😊
 
 ### Who Am I?
-I'm Addi (she/her), a software developer currently based in NC.
+I'm Addi (she/her), a software developer currently based in NC. I like collecting hobbies and experiences, like skydiving, motorcycle riding, language learning, etc etc. If you can't get enough and want to know more, I'd recommend [checking my website](http://thecalmplexcoder.com), or since you're already here, the [code for my website](https://github.com/penryoa/Website)!
 
-### My Experience (in a few points)
+### My Experience (In A Few Points)
 - 🌸 Full Stack Software Developer for 4 years in a private fintech company 🌸
-  - Converted legacy PHP code to a microservices architecture via web applications using Python, JavaScript (React, Redux, Tailwind), NoSQL (AWS DynamoDB), and SQL (MySQL)
+  - Converted legacy PHP code to a microservices architecture via web applications using Python, JavaScript (React, Redux, Tailwind), and both NoSQL (AWS DynamoDB) and SQL (MySQL) databases
   - Led the development of a suite of web applications; i.e. requirements gathering, UI / UX design, data architecture, development, mentoring, leading standups / meetings, so on.
   - Utilized APIs, both from Google and from a partner company
-- 🌸 Rose-Hulman Student for 4 years, which yes, I am making its own bullet point 🌸
-  - Learned about software patterns, data design, and other core basics of software and hardware
-  - Made a dating app for dads using Java and SQL (called Dumble, Dad + Bumble)
+- 🌸 Rose-Hulman Institute of Technology Student for 4 years, which yes, I am absolutely making its own bullet point 🌸
+  - Learned about: software patterns; SQL / NoSQL data design and visualization; other core principles of software and hardware design (i.e. a silly little thing I found interesting is that as we make memory more compact, the issue becomes keeping the hardware itself cool)
   - Wrote my own parsing language
+  - Made a dating app for dads using Java and MySQL (called Dumble, Dad + Bumble)
+  - A hardware deepdive of the GameCube
   - Made a Java App that parses Java files and outputs a string that represents an accurate UML diagram (to practice identifying software patterns)
-  - ... do I need to go on lol? This place was intense, but I learned so much.
+  - ... do I need to go on lol? This place was intense, but I learned so much and sometimes even had fun doing it.
 
 ### Navigating The Repositories
 There are not as many repos as I'd like there to be, and they're mostly not up-to-date with my skills. So I'll at least point out the more interesting examples.
@@ -27,17 +28,10 @@ This the project mentioned above that creates a string representing a UML diagra
 #### 3. 2019 | [Parallel Computing in C](https://github.com/penryoa/rose-hulman_backup/tree/csse335-parallel_computing)
 Not sure this is the best thing to highlight given the kind of sloppy nature of the repo, but I wanted to include something different. This is from my parallel computing class where everything was written in C. I thought it'd be fun to throw in a low level coding language, and with this one specifically, I'd recommend checking the PDF files in each folder to see what the assignment was.
 
-<!--
-**penryoa/penryoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects On The Horizon
 
-Here are some ideas to get you started:
+#### 1. Language Output Generator (LOG)
+An application that generates an assignment to work on in another language (catchy tagline TBD). This is my brainchild of a project that I want to see in the world. Currently in the requirements and design process, but [feel free to snoop on the design docs](https://drive.google.com/drive/folders/1RhN5Wz6ppWNY7zTfJEBVT-tgLGBVqpo4)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 2. (Ongoing) Update Website
+Like I've said, it's just a little outdated and I'd love to give it more oomph.
