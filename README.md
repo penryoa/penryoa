@@ -22,7 +22,7 @@ I'm Addi (she/her), a software developer currently based in NC. I like collectin
 ### 1. 2020 - Current | [My Personal Website](https://github.com/penryoa/Website)
 My personal website could just use some TLC and embellishment - and better adherement to good software engineering principles - so I try to update chunks of it at a time.
 
-### 2. 2024 - Current [Language Output Generator (LOG)](https://github.com/Language-Output-Generator)
+### 2. 2024 - Current | [Language Output Generator (LOG)](https://github.com/Language-Output-Generator)
 An application that generates an assignment to work on in another language and much more (catchy tagline TBD). This is my brainchild of a project that I want to see in the world. Currently in early development and finalizing design.
 
 
